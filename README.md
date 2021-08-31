@@ -10,7 +10,7 @@ Navigate either through the github repository or through the provided github pag
 
 ### Workshop ARE
 
-1. [Machine Programming](./01-machine-programming/)
+1. [Machine Programming](./01-machine-programming)
 2. Embedded System
 
 ### Workshop ARE/PDE

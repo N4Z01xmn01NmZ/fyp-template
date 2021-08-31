@@ -13,7 +13,7 @@ How to [setup the compiler](#./compiler-setup.md)
 ## Content
 
 - [Intro to Visual Studio Code](vscode.md)
-- [Programming language C++](./cpp/)
-- [PlatformIO IDE](./pio/)
+- [Programming language C++](./cpp)
+- [PlatformIO IDE](./pio)
 
 See the [slide](#).
