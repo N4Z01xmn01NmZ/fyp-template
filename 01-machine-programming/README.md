@@ -8,7 +8,8 @@
   - Windows: Mingw
 
 Download VS Code [here](https://code.visualstudio.com).
-How to [setup the compiler](#./compiler-setup.md)
+
+How to [setup the compiler](./compiler-setup.md)
 
 ## Content
 
