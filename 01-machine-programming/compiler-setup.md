@@ -75,14 +75,18 @@
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrewinstall/HEAD/install.sh)"
     ```
 
-2. Update Homebrew
+2. Update Homebrew and validate brew instalation
 
     ```bash
     brew update
     brew upgrade
     ```
 
-3. Install GCC and the GDB debugger via Gomebrew
+    ```bash
+    brew --version
+    ```
+
+3. Install GCC and the GDB debugger via Homebrew
 
     ```bash
     brew info gcc
