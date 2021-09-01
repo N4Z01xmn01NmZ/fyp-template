@@ -8,11 +8,11 @@
   - Windows: Mingw
 
 Download VS Code <a href="https://code.visualstudio.com" target="_blank">here</a>. <br>
-How to [setup the compiler](./compiler-setup.md)
+How to [setup the compiler](./compiler-setup.md).
 
 ## Content
 
-- [Intro to Visual Studio Code](vscode.md)
+- <a href="https://code.visualstudio.com/docs/getstarted/introvideos" target="_blank">Intro to Visual Studio Code</a>
 - [Programming language C++](./cpp)
 - [PlatformIO IDE](./pio)
 
