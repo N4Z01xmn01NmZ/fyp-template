@@ -72,7 +72,7 @@
 1. Install [Homebrew](https://brew.sh) package manager.
 
     ```bash
-    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrewinstall/    HEAD/install.sh)"
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrewinstall/HEAD/install.sh)"
     ```
 
 2. Update Homebrew
