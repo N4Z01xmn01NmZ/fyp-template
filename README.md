@@ -15,7 +15,7 @@ Navigate either through the github repository or through the provided github pag
 
 ### Workshop ARE/PDE
 
-Python Scientific Computation
+[Python Scientific Computation](./03-python-scientific-computation)
 
 ## Support or Contact
 
