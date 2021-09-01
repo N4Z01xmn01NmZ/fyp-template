@@ -7,7 +7,7 @@
   - Linux/macOS: GCC
   - Windows: Mingw
 
-Download VS Code [here](https://code.visualstudio.com). <br>
+Download VS Code <a href="https://code.visualstudio.com" target="_blank">here</a>. <br>
 How to [setup the compiler](./compiler-setup.md)
 
 ## Content
