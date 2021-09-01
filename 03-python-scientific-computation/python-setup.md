@@ -19,7 +19,7 @@
 1. Install python through terminal
 
     ```bash
-    sudo apt-get install python3.9
+    sudo apt-get install python3 python3-pip
     ```
 
 2. Validate installation with
