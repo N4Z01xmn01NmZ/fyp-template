@@ -15,4 +15,4 @@ How to [setup python](./python-setup.md).
 - [Programming language Python](./python)
 - Jupyter Notebook
 
-See the slide.
+See the <a href="./slide.html" target="_blank">slide</a>.

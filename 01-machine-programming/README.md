@@ -16,4 +16,4 @@ How to [setup the compiler](./compiler-setup.md).
 - [Programming language C++](./cpp)
 - [PlatformIO IDE](./pio)
 
-See the [slide](./slide.html).
+See the <a href="./slide.html" target="_blank">slide</a>.
