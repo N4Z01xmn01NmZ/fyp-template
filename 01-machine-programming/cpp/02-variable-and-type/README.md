@@ -1,4 +1,4 @@
-# Variable
+## Variable
 
 A variable represent data on the machine.
 
